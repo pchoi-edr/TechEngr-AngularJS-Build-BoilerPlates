@@ -2,7 +2,7 @@
 
 ##### Quick Start
 
-####### Make sure you have Node version >= 8.0 and NPM >= 5
+###### Make sure you have Node version >= 8.0 and NPM >= 5
 
 This is a base boilerplate for for teams still working in AngularJS 1.5++.
 
@@ -20,7 +20,7 @@ npm start
 npm build:prod
 ```
 
-####### Directory Structure
+###### Directory Structure
 
 ```
 angularjs/
