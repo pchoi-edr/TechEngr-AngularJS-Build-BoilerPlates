@@ -12,6 +12,6 @@
   angular.module('edrapp', ['ngSanitize', 'ui.router', 'mCtrls', 'mDirectives', 'mServices'])
     .config(function () {
 
-    });
+    })
 
 })(window, window.angular);
